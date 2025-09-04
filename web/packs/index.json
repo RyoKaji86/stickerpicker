@@ -1,0 +1,10 @@
+{
+  "packs": [
+    "matzi.json",
+    "skippersticker.json",
+    "PusheenJJ.json",
+    "LolAnimals.json",
+    "HideThePainHarold.json"
+  ],
+  "homeserver_url": "https://matrix.redskip.sbs"
+}
